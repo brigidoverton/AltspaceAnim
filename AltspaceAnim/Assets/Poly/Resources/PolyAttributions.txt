@@ -1,0 +1,25 @@
+This project uses the following items from Poly (http://poly.google.com):
+
+Title: Arrow
+Author: apelab
+URL: https://poly.google.com/view/5Qfnyb5ugK0
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Computer
+Author: Poly by Google
+URL: https://poly.google.com/view/2EHvZLax4Y3
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Computer
+Author: Poly by Google
+URL: https://poly.google.com/view/eCQBPXzmq1C
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: PC
+Author: Poly by Google
+URL: https://poly.google.com/view/aIwOp2HlyH-
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
