@@ -6,6 +6,12 @@ URL: https://poly.google.com/view/5Qfnyb5ugK0
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
+Title: Cartoonish Lock
+Author: Bruno Oliveira
+URL: https://poly.google.com/view/1EWXlRohqbL
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: Computer
 Author: Poly by Google
 URL: https://poly.google.com/view/2EHvZLax4Y3
@@ -18,8 +24,20 @@ URL: https://poly.google.com/view/eCQBPXzmq1C
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
 
+Title: File Folder
+Author: Ryan Dewalt
+URL: https://poly.google.com/view/fDhOEadpKWA
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
 Title: PC
 Author: Poly by Google
 URL: https://poly.google.com/view/aIwOp2HlyH-
+License: Creative Commons CC-BY
+https://creativecommons.org/licenses/by/3.0/legalcode
+
+Title: Questionmark red
+Author: Miguelangelo Rosario
+URL: https://poly.google.com/view/fWDzFBE6wLx
 License: Creative Commons CC-BY
 https://creativecommons.org/licenses/by/3.0/legalcode
